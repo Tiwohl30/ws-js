@@ -1,0 +1,15 @@
+2024/07/24-20:36:15.105 67c0 Reusing MANIFEST C:\Users\eduar\Documents\dev\ws-js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/24-20:36:15.106 67c0 Recovering log #506
+2024/07/24-20:36:15.174 67c0 Reusing old log C:\Users\eduar\Documents\dev\ws-js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000506.log 
+2024/07/24-20:36:16.720 66c4 Manual compaction at level-0 from '\x00\xad\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xae\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/24-20:43:20.037 3f98 Level-0 table #514: started
+2024/07/24-20:43:20.052 3f98 Level-0 table #514: 845539 bytes OK
+2024/07/24-20:43:20.053 3f98 Delete type=0 #506
+2024/07/24-20:43:20.054 3f98 Manual compaction at level-0 from '\x00\xae\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xaf\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/24-20:49:38.357 6378 Compacting 1@1 + 4@2 files
+2024/07/24-20:49:38.454 6378 Generated table #515@1: 86030 keys, 2235295 bytes
+2024/07/24-20:49:38.504 6378 Generated table #516@1: 40767 keys, 2214474 bytes
+2024/07/24-20:49:38.573 6378 Generated table #517@1: 51961 keys, 2196637 bytes
+2024/07/24-20:49:38.632 6378 Generated table #518@1: 56029 keys, 1004677 bytes
+2024/07/24-20:49:38.632 6378 Compacted 1@1 + 4@2 files => 7651083 bytes
+2024/07/24-20:49:38.633 6378 compacted to: files[ 0 0 4 0 0 0 0 ]
